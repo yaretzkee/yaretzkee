@@ -5,10 +5,10 @@
 - :keyboard: I am working on guitar-songbook app and PETT (Personal Expence Tracking Tool)
 - :page_facing_up: I'm familiar with
   - Python
-  - HTML/CSS
-  - Javascript
+  - HTML/CSS/JS basics
   - C/C++ (basics for Arduino boards)
   - Powershell and Bash basics
+  - IT Security concepts
   
 <!---
 yaretzkee/yaretzkee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
